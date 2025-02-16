@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: UNLICENSED
+// SPDX-License-Identifier: UNLICENSED - used for licenses only
 pragma solidity ^0.8.9;
 import "hardhat/console.sol";
 
@@ -10,13 +10,13 @@ contract SolidityDataTypes {
     constructor() {
         balance = 10000;
         owner = address(0);
-        accounts["theblokc"] = 999999;
+        accounts["prins"] = 26;
 
         // TODO: print the values above using console.log
-        // console.log("balance is ", balance);
+        console.log("Balance is ", balance);
 
-        // console.log("owner is ", owner);
+        console.log("Owner is ", owner);
 
-        // console.log("account is ", accounts["theblokc"]);
+        console.log("Account is ", accounts["prins"]);
     }
 }

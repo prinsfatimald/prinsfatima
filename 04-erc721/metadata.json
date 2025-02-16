@@ -1,0 +1,20 @@
+{
+    "name": "pfldNFT",
+    "description": "NFT ni Prins",
+    "symbol": "NFT",
+    "image": "https://imgur.com/a/aFglz5z",
+    "attributes": [
+        {
+            "trait_type": "Pretty",
+            "value": "Ugali"
+        }
+        {
+            "trait_type": "Soft",
+            "value": "Damit"
+        }
+        {
+            "trait_type": "Civic",
+            "value": "Car"
+        }
+    ]
+}
